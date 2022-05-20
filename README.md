@@ -1,2 +1,2 @@
-# react-pwa-kanban
+# React-Kanban
 Created with CodeSandbox
